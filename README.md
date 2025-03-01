@@ -52,7 +52,7 @@
 > - 주요 수행 내용 : 시스템 설계, 컴퓨팅 플랫폼 관리 시스템 개발, 파이프라인 시스템 개발, 배포 시스템 개발, 리소스 관리 시스템 개발
 >> - Languages : python3  
 >> - Skills : Docker, Jupyter Lab, Tensorflow, Pytorch, Python, MySQL, FastAPI, Nexus, NGINX, MinIO, Nvidia Triton, Ray
->> - [프로젝트 상세](https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/project.md) 
+>> - [프로젝트 상세(준비중)]() 
 
 ### 고객여정관리 시스템 구축
 > 고객의 이벤트를 바탕으로 고객의 여정을 추적하고, 고객 여정을 통한 개인화된 서비스를 제공하는 시스템 구축
@@ -61,7 +61,7 @@
 > - 수행 내용 : 고객 이벤트 데이터 분석, 대용량 데이터 병렬 처리 파이프라인 구축, 고객 여정 예측 모델, 이상 거래 탐지 모델 개발, 무중단 배포 시스템 구축
 >> - Languages : python3  
 >> - Skills : Docker, Ray, Tensorflow, Tensorflow-Serving, ONNX, FastAPI, ORACLE, Python, XGBoost
->> - [프로젝트 상세](https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/project.md)
+>> - [프로젝트 상세(준비중)]()
 
 ### 클라우드 플래그십
 > 기존 구축된 솔루션에 대한 클라우드 마이그레이션
