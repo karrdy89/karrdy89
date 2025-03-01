@@ -43,7 +43,7 @@
 > - 주요 수행 내용 : 시스템 설계, LLM 학습, 배포, 서비스 구축, 서비스 배포를 지원하는 플랫폼 구축, LLM기반 서비스 개발(TA, RAG 등)
 >> - Languages : python3  
 >> - Skills : NLP, Huggingface, Transformers, Pytorch, Python, MySQL, FastAPI, Docker, Elasticsearch, NGINX, Langchain, Langgraph, vLLM, paddlestructure, ONNX
->> - [프로젝트 상세](https://github.com/Integerous/all-in-one/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/project.md) 
+>> - [프로젝트 상세](https://github.com/karrdy89/xllm_profile) 
 
 ### MLOPS 플랫폼 개발
 > 효율적인 AI 서비스 구축을 위한 모듈식 MLOPS 플랫폼 개발
