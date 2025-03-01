@@ -35,7 +35,7 @@
 <br>
 <br>
 
-## Projects
+## Recent Projects
 ### LLM 기반 서비스 및 LLM 서비스 플랫폼 개발
 > LLM 기반 서비스를 위한 플랫폼을 구축하고, 해당 플랫폼 위에서 동작할 Killer 어플리케이션 개발
 >
