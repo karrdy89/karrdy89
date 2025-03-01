@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=karrdy89's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=45&desc=karrdy89's%20GitHub&descAlignY=64&descAlign=62)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <!--
 **karrdy89/karrdy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
