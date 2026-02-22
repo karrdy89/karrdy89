@@ -36,7 +36,7 @@
 <br>
 
 ## Recent Projects
-### 금융 SUPER APP의 대 고객용 multi Agent 서비스 개발
+### 금융 SUPER APP의 대 고객용 multi Agent 솔루션 개발
 > - 개발기간 : 2025.08 - 진행중
 
 
