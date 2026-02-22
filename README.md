@@ -36,10 +36,14 @@
 <br>
 
 ## Recent Projects
+### 금융 SUPER APP의 대 고객용 multi Agent 서비스 개발
+> - 개발기간 : 2025.08 - 진행중
+
+
 ### LLM 기반 서비스 및 LLM 서비스 플랫폼 개발
 > LLM 기반 서비스를 위한 플랫폼을 구축하고, 해당 플랫폼 위에서 동작할 Killer 어플리케이션 개발
 >
-> - 개발기간 : 2024.06 - 진행중
+> - 개발기간 : 2024.06 - 2025.06
 > - 주요 수행 내용 : 시스템 설계, LLM 학습, 배포, 서비스 구축, 서비스 배포를 지원하는 플랫폼 구축, LLM기반 서비스 개발(TA, RAG 등)
 >> - Languages : python3  
 >> - Skills : NLP, Huggingface, Transformers, Pytorch, Python, MySQL, FastAPI, Docker, Elasticsearch, NGINX, Langchain, Langgraph, vLLM, paddlestructure, ONNX
